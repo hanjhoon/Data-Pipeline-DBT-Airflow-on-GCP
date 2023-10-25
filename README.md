@@ -26,4 +26,6 @@
 
 Dataset link: [Online Retail Dataset](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
 
+
+# Table on DBT
 ![image](https://github.com/hanjhoon/Data-Pipeline-DBT-Airflow-on-GCP/assets/121271030/3b2e4ebb-85c3-4f3d-86c6-9f924f8b1fa0)
