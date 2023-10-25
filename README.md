@@ -21,3 +21,9 @@
 7. Docker - Docker는 개발자가 응용 프로그램과 해당 종속성을 가볍게 컨테이너로 패키지화하고 배포 할 수있게하는 플랫폼 및 기술입니다. 이러한 컨테이너는 응용 프로그램 및 실행에 필요한 모든 라이브러리, 종속성 및 구성을 캡슐화하는 격리된 환경입니다. Docker 컨테이너는 일관성과 이식성을 제공하여 다양한 환경 (개발, 테스트 및 프로덕션을 포함)에서 응용 프로그램을 개발, 배포 및 확장하는 것을 더 쉽게 만듭니다.
 
 8. Git 버전 관리 - Git은 소프트웨어 개발 및 기타 협업 프로젝트에서 소스 코드, 문서 및 다른 유형의 파일의 변경 사항을 추적하기 위해 널리 사용되는 분산 버전 관리 시스템 (VCS)입니다. Git과 같은 버전 관리 시스템은 개발자 및 팀이 프로젝트 파일의 변경 내역을 관리하고 소프트웨어 개발 및 기타 창조적인 작업에 효과적으로 협력하는 데 도움을줍니다.
+
+# Dataset
+
+Dataset link: [Online Retail Dataset](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
+
+![image](https://github.com/hanjhoon/Data-Pipeline-DBT-Airflow-on-GCP/assets/121271030/3b2e4ebb-85c3-4f3d-86c6-9f924f8b1fa0)
